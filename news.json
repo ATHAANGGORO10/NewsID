@@ -1,0 +1,1150 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/4d95daea-87cc-5a69-9834-3a2a00e27460",
+      "url": "https://www.nytimes.com/2024/03/14/style/superiority-burger-ashwin-deshmukh.html",
+      "id": 100000009357735,
+      "asset_id": 100000009357735,
+      "source": "New York Times",
+      "published_date": "2024-03-14",
+      "updated": "2024-03-17 15:36:46",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Suits and Litigation (Civil);Restaurants;Bars and Nightclubs;Embezzlement;Deshmukh, Ashwin;Superiority Burger (Manhattan, NY, Restaurant);Lower East Side (Manhattan, NY)",
+      "column": null,
+      "byline": "By Joseph Bernstein",
+      "type": "Article",
+      "title": "How to Win Friends and Hustle People",
+      "abstract": "Ashwin Deshmukh built a reputation as a nightlife impresario by burning close friends, new acquaintances, big corporations, local bars and even his subletter.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Restaurants",
+        "Bars and Nightclubs",
+        "Embezzlement"
+      ],
+      "org_facet": ["Superiority Burger (Manhattan, NY, Restaurant)"],
+      "per_facet": ["Deshmukh, Ashwin"],
+      "geo_facet": ["Lower East Side (Manhattan, NY)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/fashion/13ashwin-promo/13ashwin-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/fashion/13ashwin-promo/13ashwin-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/13/fashion/13ashwin-promo/13ashwin-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dabac584-d571-51f8-b86f-6e99fdd88f28",
+      "url": "https://www.nytimes.com/2024/03/16/nyregion/subway-shooting-national-guard-safety.html",
+      "id": 100000009362516,
+      "asset_id": 100000009362516,
+      "source": "New York Times",
+      "published_date": "2024-03-16",
+      "updated": "2024-03-17 22:46:25",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Subways;Police;Crime and Criminals;Stations and Terminals (Passenger);Assaults;Hochul, Kathleen C;National Guard;Metropolitan Transportation Authority;New York City;Brooklyn (NYC);New York State",
+      "column": null,
+      "byline": "By Christopher Maag",
+      "type": "Article",
+      "title": "After Another Subway Shooting, New York Wrestles With Question of Safety",
+      "abstract": "Even with the National Guard patrolling the system, some New Yorkers say they don’t feel secure, particularly after the subway shooting in Brooklyn on Thursday. Others remain unfazed.",
+      "des_facet": [
+        "Subways",
+        "Police",
+        "Crime and Criminals",
+        "Stations and Terminals (Passenger)",
+        "Assaults"
+      ],
+      "org_facet": ["National Guard", "Metropolitan Transportation Authority"],
+      "per_facet": ["Hochul, Kathleen C"],
+      "geo_facet": ["New York City", "Brooklyn (NYC)", "New York State"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A week after Gov. Kathy Hochul sent the National Guard and State Police into the subway, Thursday’s shooting seemed to underscore the limits of law enforcement’s ability to improve safety underground.",
+          "copyright": "Adam Gray for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16subway-national-guard-kbhw/16subway-national-guard-kbhw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16subway-national-guard-kbhw/16subway-national-guard-kbhw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16subway-national-guard-kbhw/16subway-national-guard-kbhw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5184473e-07ff-5309-88a7-7d57af6b0f5b",
+      "url": "https://www.nytimes.com/2024/03/13/opinion/kate-middleton-scandal.html",
+      "id": 100000009356846,
+      "asset_id": 100000009356846,
+      "source": "New York Times",
+      "published_date": "2024-03-13",
+      "updated": "2024-03-16 08:51:26",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Royal Families;News and News Media;Social Media;Catherine, Princess of Wales;Harry, Duke of Sussex;Markle, Meghan;Great Britain",
+      "column": null,
+      "byline": "By Zeynep Tufekci",
+      "type": "Article",
+      "title": "Kate Middleton’s Story Is About So Much More Than Kate Middleton",
+      "abstract": "The scandal is another blatant display of royal double standards.",
+      "des_facet": ["Royal Families", "News and News Media", "Social Media"],
+      "org_facet": [],
+      "per_facet": [
+        "Catherine, Princess of Wales",
+        "Harry, Duke of Sussex",
+        "Markle, Meghan"
+      ],
+      "geo_facet": ["Great Britain"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Rebecca Chew/The New York Times. Photographs by Tolga Akmen/Agence France-Presse/Getty Images; Chris Johnson/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/opinion/13tufekci/13tufekci-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/opinion/13tufekci/13tufekci-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/opinion/13tufekci/13tufekci-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0670b049-30f8-5973-bb41-83bd8735e158",
+      "url": "https://www.nytimes.com/2024/03/18/style/kristen-stewart-love-lies-bleeding.html",
+      "id": 100000009361423,
+      "asset_id": 100000009361423,
+      "source": "New York Times",
+      "published_date": "2024-03-18",
+      "updated": "2024-03-18 09:47:14",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Women and Girls;Actors and Actresses;Fashion and Apparel;Lingerie and Underwear;Homosexuality and Bisexuality;your-feed-fashion;Stewart, Kristen",
+      "column": null,
+      "byline": "By Vanessa Friedman",
+      "type": "Article",
+      "title": "Kristen Stewart Uses Naked Dressing to Make a Point",
+      "abstract": "Her press tour for “Love Lies Bleeding” was something to see.",
+      "des_facet": [
+        "Women and Girls",
+        "Actors and Actresses",
+        "Fashion and Apparel",
+        "Lingerie and Underwear",
+        "Homosexuality and Bisexuality",
+        "your-feed-fashion"
+      ],
+      "org_facet": [],
+      "per_facet": ["Stewart, Kristen"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kristen Stewart, pantsless at the Los Angeles premiere of “Love Lies Bleeding.”",
+          "copyright": "Emma Mcintyre/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/KRISTEN-STWEART-jbct/KRISTEN-STWEART-jbct-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/KRISTEN-STWEART-jbct/KRISTEN-STWEART-jbct-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/KRISTEN-STWEART-jbct/KRISTEN-STWEART-jbct-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9aabbd94-0417-52a3-929b-72d428d50071",
+      "url": "https://www.nytimes.com/2024/03/17/technology/chatbot-xai-code-musk.html",
+      "id": 100000009356852,
+      "asset_id": 100000009356852,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-18 11:43:05",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Artificial Intelligence;Social Media;Computers and the Internet;Open-Source Software;Musk, Elon;X (Formerly Twitter);OpenAI Labs",
+      "column": null,
+      "byline": "By Kate Conger and Cade Metz",
+      "type": "Article",
+      "title": "In Latest A.I. War Escalation, Elon Musk Releases Chatbot Code",
+      "abstract": "Mr. Musk’s move to open up the code behind Grok is the latest volley in a war to win the A.I. battle, after a suit against OpenAI on the same topic.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Social Media",
+        "Computers and the Internet",
+        "Open-Source Software"
+      ],
+      "org_facet": ["X (Formerly Twitter)", "OpenAI Labs"],
+      "per_facet": ["Musk, Elon"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk’s new A.I. chatbot, Grok, is designed to echo “The Hitchhiker’s Guide to the Galaxy” and give snarky replies to users’ queries.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/00musk-grok-hjkq/00musk-grok-hjkq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/00musk-grok-hjkq/00musk-grok-hjkq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/00musk-grok-hjkq/00musk-grok-hjkq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d4e90dcc-591a-5c11-8c6d-b994cf229043",
+      "url": "https://www.nytimes.com/2024/03/18/arts/music/paul-simon-in-restless-dreams-documentary.html",
+      "id": 100000009344911,
+      "asset_id": 100000009344911,
+      "source": "New York Times",
+      "published_date": "2024-03-18",
+      "updated": "2024-03-18 12:13:23",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Documentary Films and Programs;Pop and Rock Music;Content Type: Personal Profile;Pareles, Jon;Gibney, Alex;Simon and Garfunkel",
+      "column": null,
+      "byline": "By Robert Ito",
+      "type": "Article",
+      "title": "Paul Simon Faced Unexpected Struggles. Cameras Were Rolling.",
+      "abstract": "The singer and songwriter invited Alex Gibney to capture the making of his album “Seven Psalms.” The filmmaker was surprised to find a musician losing his hearing.",
+      "des_facet": [
+        "Documentary Films and Programs",
+        "Pop and Rock Music",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": ["Simon and Garfunkel"],
+      "per_facet": ["Pareles, Jon", "Gibney, Alex"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“In Restless Dreams,” which premiered Sunday on MGM+, begins with Paul Simon’s earliest days growing up in Queens, N.Y.",
+          "copyright": "Anonymous Content",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/arts/18simon-doc/18simon-doc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/arts/18simon-doc/18simon-doc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/arts/18simon-doc/18simon-doc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e30df865-7b63-595d-8711-bbf832e8d425",
+      "url": "https://www.nytimes.com/2024/03/17/world/europe/iceland-volcano-eruption.html",
+      "id": 100000009365372,
+      "asset_id": 100000009365372,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-17 22:40:30",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Volcanoes;Evacuations and Evacuees;Iceland;Grindavik (Iceland)",
+      "column": null,
+      "byline": "By Egill Bjarnason and Yan Zhuang",
+      "type": "Article",
+      "title": "Iceland Volcano Erupts in Plumes of Fire With Little Notice",
+      "abstract": "The authorities said the eruption on Saturday night was the most powerful of a series that started in December.",
+      "des_facet": ["Volcanoes", "Evacuations and Evacuees"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Iceland", "Grindavik (Iceland)"],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7378fe66-4ffb-5d58-bc54-ea823666df12",
+      "url": "https://www.nytimes.com/2024/03/17/opinion/mexico-election-claudia-sheinbaum.html",
+      "id": 100000009351540,
+      "asset_id": 100000009351540,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-18 10:08:15",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Jews and Judaism;Polls and Public Opinion;Israel-Gaza War (2023- );Immigration and Emigration;Elections;Sheinbaum, Claudia;Lopez Obrador, Andres Manuel;Mexico;Israel;Gaza Strip",
+      "column": null,
+      "byline": "By Ilan Stavans",
+      "type": "Article",
+      "title": "Will Mexico’s Claudia Sheinbaum, a Jewish Woman, Blaze a Trail or Follow One?",
+      "abstract": "Her ascent shows how pluralism has redefined the country’s texture.",
+      "des_facet": [
+        "Jews and Judaism",
+        "Polls and Public Opinion",
+        "Israel-Gaza War (2023- )",
+        "Immigration and Emigration",
+        "Elections"
+      ],
+      "org_facet": [],
+      "per_facet": ["Sheinbaum, Claudia", "Lopez Obrador, Andres Manuel"],
+      "geo_facet": ["Mexico", "Israel", "Gaza Strip"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Victor Mendiola/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/15stavans-blkt/15stavans-blkt-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/15stavans-blkt/15stavans-blkt-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/15stavans-blkt/15stavans-blkt-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/878f0a48-7507-58e3-a43a-0bf11e1c973e",
+      "url": "https://www.nytimes.com/2024/03/15/style/irish-actors-cillian-murphy-barry-keoghan.html",
+      "id": 100000009363430,
+      "asset_id": 100000009363430,
+      "source": "New York Times",
+      "published_date": "2024-03-15",
+      "updated": "2024-03-17 15:01:30",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Actors and Actresses;Social Media;St Patrick's Day;Keoghan, Barry;Mescal, Paul (1996- );Murphy, Cillian;Scott, Andrew (1976- );Ireland",
+      "column": null,
+      "byline": "By Sadiba Hasan",
+      "type": "Article",
+      "title": "A Thirst for the Irish",
+      "abstract": "Barry Keoghan, Paul Mescal and Cillian Murphy are among a crop of Irish hunks who have infused popular culture with big Irish energy.",
+      "des_facet": ["Actors and Actresses", "Social Media", "St Patrick's Day"],
+      "org_facet": [],
+      "per_facet": [
+        "Keoghan, Barry",
+        "Mescal, Paul (1996- )",
+        "Murphy, Cillian",
+        "Scott, Andrew (1976- )"
+      ],
+      "geo_facet": ["Ireland"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barry Keoghan set many a heart atwitter with his performance in the film “Saltburn.”",
+          "copyright": "Amazon Prime Video, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16IRISH-HUNKS-01-zwqv/16IRISH-HUNKS-01-zwqv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16IRISH-HUNKS-01-zwqv/16IRISH-HUNKS-01-zwqv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16IRISH-HUNKS-01-zwqv/16IRISH-HUNKS-01-zwqv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/68b5a5c8-2383-5435-93b4-d0b6c97de0e6",
+      "url": "https://www.nytimes.com/2024/03/17/nyregion/hudson-valley-bruderhof-community.html",
+      "id": 100000009268139,
+      "asset_id": 100000009268139,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-18 12:39:51",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Communes;Christians and Christianity;Computers and the Internet;Smartphones;Furniture;audio-neutral-informative;Bruderhof;Hudson River Valley (NY)",
+      "column": null,
+      "byline": "By Richard Schiffman",
+      "type": "Article",
+      "title": "Few Smartphones, Some Beer: A Christian Village Grapples With Modernity",
+      "abstract": "A rare look at how the Bruderhof of the Hudson Valley navigate the outside world while keeping it at arm’s length.",
+      "des_facet": [
+        "Communes",
+        "Christians and Christianity",
+        "Computers and the Internet",
+        "Smartphones",
+        "Furniture",
+        "audio-neutral-informative"
+      ],
+      "org_facet": ["Bruderhof"],
+      "per_facet": [],
+      "geo_facet": ["Hudson River Valley (NY)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Relaxing during a coffee break at the Bruderhof community at Fox Hill, in Walden, N.Y. About half of the worldwide members of the group live in six villages in the Hudson Valley.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/ny-bruderhof-01-gvqc/ny-bruderhof-01-gvqc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/ny-bruderhof-01-gvqc/ny-bruderhof-01-gvqc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/08/multimedia/ny-bruderhof-01-gvqc/ny-bruderhof-01-gvqc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e31f578b-f45e-5d80-886a-bf37322420c8",
+      "url": "https://www.nytimes.com/2024/03/16/well/move/skiing-seniors-utah.html",
+      "id": 100000009348846,
+      "asset_id": 100000009348846,
+      "source": "New York Times",
+      "published_date": "2024-03-16",
+      "updated": "2024-03-17 15:50:34",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Skiing;Age, Chronological;Elderly;Alta (Utah)",
+      "column": null,
+      "byline": "By Charley Locke and Kate Russell",
+      "type": "Article",
+      "title": "These Skiers Are Still Chasing Powder in Their 80s and 90s",
+      "abstract": "For the Wild old Bunch of Alta, Utah, getting older means more time for the mountain. And anyone over 80 skis free.",
+      "des_facet": ["Skiing", "Age, Chronological", "Elderly"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Alta (Utah)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I ski better now than when I was younger,” said Classie Page, 87. “I used to ski slow, but now, I ski with people who ski fast.”",
+          "copyright": "Kate Russel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/19/multimedia/WELL-WILD-OLD-PROMO/WELL-WILD-OLD-BUNCH4-zjpw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/19/multimedia/WELL-WILD-OLD-PROMO/WELL-WILD-OLD-BUNCH4-zjpw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/19/multimedia/WELL-WILD-OLD-PROMO/WELL-WILD-OLD-BUNCH4-zjpw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7e7c6d7b-4d46-5b56-be01-bcf945a1ba2f",
+      "url": "https://www.nytimes.com/2024/03/17/opinion/trump-tiktok-ban-china.html",
+      "id": 100000009363811,
+      "asset_id": 100000009363811,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-18 10:53:53",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States International Relations;Law and Legislation;Conservatism (US Politics);Presidential Election of 2024;Social Media;Trump, Donald J;Biden, Joseph R Jr;Republican Party;TikTok (ByteDance);China",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "What Trump’s TikTok Flip-Flop Tells America",
+      "abstract": "On yet another issue, Trump sides with a foreign adversary over America.",
+      "des_facet": [
+        "United States International Relations",
+        "Law and Legislation",
+        "Conservatism (US Politics)",
+        "Presidential Election of 2024",
+        "Social Media"
+      ],
+      "org_facet": ["Republican Party", "TikTok (ByteDance)"],
+      "per_facet": ["Trump, Donald J", "Biden, Joseph R Jr"],
+      "geo_facet": ["China"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Rachel Stern for The New York Times; photograph by Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/19/multimedia/17french-gfzw/17french-gfzw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/19/multimedia/17french-gfzw/17french-gfzw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/19/multimedia/17french-gfzw/17french-gfzw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/acd39ce6-a834-5a63-b629-b67bb07b6252",
+      "url": "https://www.nytimes.com/2024/03/18/opinion/tiktok-trump-pence-biden.html",
+      "id": 100000009365856,
+      "asset_id": 100000009365856,
+      "source": "New York Times",
+      "published_date": "2024-03-18",
+      "updated": "2024-03-18 10:37:20",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States International Relations;Presidential Election of 2024;United States Politics and Government;Sex Crimes;Social Media;Labor and Jobs;Biden, Joseph R Jr;Carroll, E Jean;Mace, Nancy;Noem, Kristi;Trump, Donald J;Communist Party of China;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Gail Collins and Bret Stephens",
+      "type": "Article",
+      "title": "Mike Pence Rues the Day",
+      "abstract": "And not just Jan. 6.",
+      "des_facet": [
+        "United States International Relations",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Sex Crimes",
+        "Social Media",
+        "Labor and Jobs"
+      ],
+      "org_facet": [
+        "Communist Party of China",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Carroll, E Jean",
+        "Mace, Nancy",
+        "Noem, Kristi",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18convoSub-hclp/18convoSub-hclp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18convoSub-hclp/18convoSub-hclp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18convoSub-hclp/18convoSub-hclp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5bf45d70-4294-5f06-a0fc-f8fceb58ef4d",
+      "url": "https://www.nytimes.com/2024/03/16/opinion/abortion-republican-kellyanne-conway.html",
+      "id": 100000009365013,
+      "asset_id": 100000009365013,
+      "source": "New York Times",
+      "published_date": "2024-03-16",
+      "updated": "2024-03-18 13:20:17",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "internal-sub-only-nl;Presidential Election of 2024;Abortion;United States Politics and Government;Conway, Kellyanne;Republican Party",
+      "column": null,
+      "byline": "By Jamelle Bouie",
+      "type": "Article",
+      "title": "Kellyanne Conway Has Some Weak Advice for Her Party",
+      "abstract": "Voters’ concerns about abortion rights won’t be easy to avoid.",
+      "des_facet": [
+        "internal-sub-only-nl",
+        "Presidential Election of 2024",
+        "Abortion",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Conway, Kellyanne"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kellyanne Conway on Fox News for Super Tuesday on March 5. ",
+          "copyright": "Roy Rochlin/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/opinion/15bouie-newsletter/15bouie-newsletter-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/opinion/15bouie-newsletter/15bouie-newsletter-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/opinion/15bouie-newsletter/15bouie-newsletter-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3f180170-4704-501b-9ab4-290f6bb01ecc",
+      "url": "https://www.nytimes.com/2024/03/17/style/phoebe-philo-chloe-celine.html",
+      "id": 100000009222166,
+      "asset_id": 100000009222166,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-17 10:21:10",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Fashion and Apparel;Content Type: Personal Profile;Luxury Goods and Services;Philo, Phoebe;Celine (Fashion Label);Chloe (Fashion Label)",
+      "column": null,
+      "byline": "By Vanessa Friedman",
+      "type": "Article",
+      "title": "Phoebe Philo Breaks Her Silence",
+      "abstract": "In an exclusive interview, the designer talks about doing things as she wants them done, the weight of expectations and what happens next.",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Content Type: Personal Profile",
+        "Luxury Goods and Services"
+      ],
+      "org_facet": ["Celine (Fashion Label)", "Chloe (Fashion Label)"],
+      "per_facet": ["Philo, Phoebe"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Charlotte Hadden for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/multimedia/15PHOEBE-tkvm/15PHOEBE-tkvm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/multimedia/15PHOEBE-tkvm/15PHOEBE-tkvm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/multimedia/15PHOEBE-tkvm/15PHOEBE-tkvm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e46f6bab-7a8a-5f25-87ea-c673c7d1f896",
+      "url": "https://www.nytimes.com/2024/03/18/nyregion/trump-bond-civil-fraud-case.html",
+      "id": 100000009367935,
+      "asset_id": 100000009367935,
+      "source": "New York Times",
+      "published_date": "2024-03-18",
+      "updated": "2024-03-18 14:21:23",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "New York State Civil Case Against Trump (452564/2022);Frauds and Swindling;Trump, Donald J;New York State",
+      "column": null,
+      "byline": "By Ben Protess, Kate Christobek and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Spurned by 30 Companies as He Seeks Bond in $454 Million Judgment",
+      "abstract": "Donald J. Trump’s lawyers said in a court filing that he faces “insurmountable difficulties” as he tries to raise cash for the civil fraud penalty he faces in New York.",
+      "des_facet": [
+        "New York State Civil Case Against Trump (452564/2022)",
+        "Frauds and Swindling"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["New York State"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump’s filing one week before the bond is due raised the prospect that the former president might now face a financial crisis.",
+          "copyright": "Maansi Srivastava/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18trump-bond-pwgz/18trump-bond-pwgz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18trump-bond-pwgz/18trump-bond-pwgz-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18trump-bond-pwgz/18trump-bond-pwgz-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/417f01d4-dc07-5445-b50b-4f07b8237dcd",
+      "url": "https://www.nytimes.com/2024/03/16/us/gila-monster-bite-death.html",
+      "id": 100000009364858,
+      "asset_id": 100000009364858,
+      "source": "New York Times",
+      "published_date": "2024-03-16",
+      "updated": "2024-03-17 19:10:05",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Lizards;Poisoning and Poisons;Pets;Deaths (Fatalities);Autopsies;Lakewood (Colo)",
+      "column": null,
+      "byline": "By Aimee Ortiz",
+      "type": "Article",
+      "title": "Colorado Man Died From Venomous Gila Monster Bite, Autopsy Confirms",
+      "abstract": "The rare fatality happened after the man endured a four-minute-long bite from the lizard to his right hand in February, records show.",
+      "des_facet": [
+        "Lizards",
+        "Poisoning and Poisons",
+        "Pets",
+        "Deaths (Fatalities)",
+        "Autopsies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Lakewood (Colo)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gila monsters have grooves, or channels, in their teeth so that when they bite, they hold on, an expert said.",
+          "copyright": "Ted S. Warren/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/15xp-gila-tqkj/15xp-gila-tqkj-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/15xp-gila-tqkj/15xp-gila-tqkj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/15/multimedia/15xp-gila-tqkj/15xp-gila-tqkj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ca1d4fe6-2a59-580d-8c69-cb77f989a734",
+      "url": "https://www.nytimes.com/2024/03/17/us/politics/trump-disinformation-2024-social-media.html",
+      "id": 100000009353100,
+      "asset_id": 100000009353100,
+      "source": "New York Times",
+      "published_date": "2024-03-17",
+      "updated": "2024-03-18 09:52:21",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Rumors and Misinformation;Conspiracy Theories;Right-Wing Extremism and Alt-Right;Social Media;Conservatism (US Politics);United States Politics and Government;Presidential Election of 2020;Presidential Election of 2024;Freedom of Speech and Expression;Censorship;Trump, Donald J;Miller, Stephen (1985- );Benz, Michael A;Biden, Joseph R Jr;Disinformation Governance Board;Cybersecurity and Infrastructure Security Agency;Homeland Security Department;Republican Party;Democratic Party;X (Formerly Twitter);Facebook Inc;YouTube.com",
+      "column": null,
+      "byline": "By Jim Rutenberg and Steven Lee Myers",
+      "type": "Article",
+      "title": "How Trump’s Allies Are Winning the War Over Disinformation",
+      "abstract": "Their claims of censorship have successfully stymied the effort to filter election lies online.",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Conspiracy Theories",
+        "Right-Wing Extremism and Alt-Right",
+        "Social Media",
+        "Conservatism (US Politics)",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Presidential Election of 2024",
+        "Freedom of Speech and Expression",
+        "Censorship"
+      ],
+      "org_facet": [
+        "Disinformation Governance Board",
+        "Cybersecurity and Infrastructure Security Agency",
+        "Homeland Security Department",
+        "Republican Party",
+        "Democratic Party",
+        "X (Formerly Twitter)",
+        "Facebook Inc",
+        "YouTube.com"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Miller, Stephen (1985- )",
+        "Benz, Michael A",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Three years after Mr. Trump spread falsehoods about his defeat online, social media platforms have fewer checks on the intentional spread of lies about elections.",
+          "copyright": "Emily Elconin for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/multimedia/00pol-gaurdrails-top-maybe-tpzf/00pol-gaurdrails-top-maybe-tpzf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/multimedia/00pol-gaurdrails-top-maybe-tpzf/00pol-gaurdrails-top-maybe-tpzf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/17/multimedia/00pol-gaurdrails-top-maybe-tpzf/00pol-gaurdrails-top-maybe-tpzf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/696cb634-91b2-5fe7-bdf6-90d3a0fd19d0",
+      "url": "https://www.nytimes.com/2024/03/18/us/breyer-supreme-court-interview.html",
+      "id": 100000009365580,
+      "asset_id": 100000009365580,
+      "source": "New York Times",
+      "published_date": "2024-03-18",
+      "updated": "2024-03-18 12:57:48",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Courts and the Judiciary;Decisions and Verdicts;United States Politics and Government;Abortion;Breyer, Stephen G;Barrett, Amy Coney;Gorsuch, Neil M;Kavanaugh, Brett M;Jackson, Ketanji Brown (1970- );Supreme Court (US)",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Justice Breyer, Off the Bench, Sounds an Alarm Over the Supreme Court’s Direction",
+      "abstract": "In an interview in his chambers and in a new book, the justice, who retired in 2022, discussed Dobbs, originalism and the decline of trust in the court.",
+      "des_facet": [
+        "Courts and the Judiciary",
+        "Decisions and Verdicts",
+        "United States Politics and Government",
+        "Abortion"
+      ],
+      "org_facet": ["Supreme Court (US)"],
+      "per_facet": [
+        "Breyer, Stephen G",
+        "Barrett, Amy Coney",
+        "Gorsuch, Neil M",
+        "Kavanaugh, Brett M",
+        "Jackson, Ketanji Brown (1970- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Stephen G. Breyer retired a little reluctantly in 2022, under pressure from liberals who wanted to make sure the Supreme Court’s conservative supermajority would not get any more lopsided.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18dc-bar-qwgh/18dc-bar-qwgh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18dc-bar-qwgh/18dc-bar-qwgh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/18/multimedia/18dc-bar-qwgh/18dc-bar-qwgh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c4bf0722-5fa9-5cf1-a6c1-baa03887deb3",
+      "url": "https://www.nytimes.com/2024/03/16/realestate/buy-sell-house.html",
+      "id": 100000009363673,
+      "asset_id": 100000009363673,
+      "source": "New York Times",
+      "published_date": "2024-03-16",
+      "updated": "2024-03-17 18:12:17",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Real Estate Brokers;Antitrust Laws and Competition Issues;Prices (Fares, Fees and Rates);National Assn of Realtors;United States",
+      "column": null,
+      "byline": "By Rukmini Callimachi and Debra Kamin",
+      "type": "Article",
+      "title": "Five Ways Buying and Selling a House Could Change",
+      "abstract": "The National Association of Realtors has agreed to change its policies to settle several lawsuits brought by home sellers — a move that could reduce commissions.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Real Estate Brokers",
+        "Antitrust Laws and Competition Issues",
+        "Prices (Fares, Fees and Rates)"
+      ],
+      "org_facet": ["National Assn of Realtors"],
+      "per_facet": [],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Passers-by peruse home listings at a real estate brokerage in Beverly Hills, Calif.",
+          "copyright": "Allison Dinner/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16takeways-NARrea-vghp/16takeways-NARrea-vghp-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16takeways-NARrea-vghp/16takeways-NARrea-vghp-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/03/16/multimedia/16takeways-NARrea-vghp/16takeways-NARrea-vghp-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

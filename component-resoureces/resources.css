@@ -1,0 +1,39 @@
+
+.navbar {
+    margin: 20px 15px;
+    border-radius: 25px;
+    transition: transform 0.5s ease-in-out;
+    background-color: white;
+}
+
+#output {
+    margin-top: 7rem;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.card-title {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    color: #555;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.card-date {
+    color: #151414;
+    font-size: 15px;
+}
